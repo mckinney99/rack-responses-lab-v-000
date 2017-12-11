@@ -10,5 +10,3 @@ class application
     end
   end
 end
-
-    
